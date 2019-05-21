@@ -1,15 +1,26 @@
-# HackingTool
+<h2 align="center">HackingTool</h2>
+
+<br>
+
+## In Ubuntu
 
 ```
-My Favourite Tools
+sudo apt-get install namp
+sudo apt-get install wireshark
 ```
 #### <code>apt-get install unzip</code>
 
-* [ddosim] **ddosim** - *ddosim* ( https://sourceforge.net/projects/ddosim/)
+
+* [ddosim] **ddosim** - *ddosim* (https://sourceforge.net/projects/ddosim/) <br>
+
 *https://github.com/MustLive/DAVOSET
+<br>
 *http://www.bestetools.com/system/ddos-tools/
+<br>
 *https://github.com/GeoffreyVDB/HULK
+<br>
 *https://github.com/darkerego/pyloris
+<br>
 
 https://github.com/dotfighter/torshammer
 https://www.incapsula.com/ddos/booters-stressers-ddosers.html
