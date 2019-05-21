@@ -2,6 +2,16 @@
 
 <br>
 
+<p align="center">
+Found on the Internet 
+</p>
+
+<div align="center">
+  <sub>Created by
+    <a href="https://twitter.com/ardhendu101">Ardhendu</a>
+    </div>
+
+
 ## In Ubuntu
 
 ```
@@ -9,6 +19,7 @@ sudo apt-get install namp
 sudo apt-get install wireshark
 ```
 #### <code>apt-get install unzip</code>
+****
 
 
 * [ddosim] **ddosim** - *ddosim* (https://sourceforge.net/projects/ddosim/) <br>
