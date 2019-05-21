@@ -21,7 +21,7 @@ sudo apt-get install wireshark
 #### <code>apt-get install unzip</code>
 ****
 ### SetUp tor
-[![Watch the video] (https://www.youtube.com/watch?v=r3K6ClMNPdk)
+[![How to Be Anonymous](http://i3.ytimg.com/vi/r3K6ClMNPdk/maxresdefault.jpg)](https://www.youtube.com/watch?v=r3K6ClMNPdk)
 
 
 * [ddosim] **ddosim** - *ddosim* (https://sourceforge.net/projects/ddosim/) <br>
