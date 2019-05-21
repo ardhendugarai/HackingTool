@@ -33,89 +33,87 @@ sudo apt-get install wireshark
 *https://github.com/GeoffreyVDB/HULK
 <br>
 *https://github.com/darkerego/pyloris
-<br>
-
-https://github.com/dotfighter/torshammer
-https://www.incapsula.com/ddos/booters-stressers-ddosers.html
+https://github.com/dotfighter/torshammer <br>
+https://www.incapsula.com/ddos/booters-stressers-ddosers.html <br>
 https://www.incapsula.com/ddos/attack-glossary/rudy-r-u-dead-yet.html
-https://sourceforge.net/projects/r-u-dead-yet/
-https://github.com/jseidl/GoldenEye
-https://sourceforge.net/projects/highorbitioncannon/
-https://github.com/gkbrk/slowloris
-https://sourceforge.net/projects/loic/
-https://github.com/GouveaHeitor/nipe
-https://github.com/1tayH/noisy
-https://github.com/Hack-with-Github/Awesome-Hacking
-https://github.com/thehackingsage/hacktronian
-https://github.com/trustedsec/ptf
-https://github.com/trustedsec/social-engineer-toolkit
-https://github.com/hectorm/hblock
-https://github.com/archerysec/archerysec
-https://github.com/malscan/malscan
-https://github.com/rubysec/bundler-audit
-https://github.com/galkan/crowbar
-https://github.com/lgandx/Responder/
-https://github.com/andrewmichaelsmith/bluepot/
-https://github.com/leapsecurity/InSpy
-https://github.com/FortyNorthSecurity/EyeWitness
-https://github.com/CrowdStrike/Tortilla
-https://github.com/TheRook/subbrute
-https://github.com/blark/aiodnsbrute
-https://github.com/mschwager/fierce
-https://github.com/joswr1ght/btfind
-https://github.com/scipag/btle-sniffer
-https://github.com/virtualabs/btlejack
-https://github.com/droe/sslsplit
-https://github.com/ggerganov/kbd-audio
-https://www.kitploit.com/2018/09/byob-build-your-own-botnet.html
-https://github.com/anthemtotheego/SharpSploitConsole
-https://github.com/errbufferoverfl/usb-canary
-https://github.com/flipkart-incubator/RTA
-https://github.com/giovanifss/Gitmails
-https://github.com/USBGuard/usbguard
-https://github.com/ismailtasdelen/Anti-DDOS
-https://github.com/skahwah/wordsmith
-https://github.com/s0lst1c3/eaphammer
-https://github.com/mozilla/mig
-https://github.com/YosaiProject/yosai
-https://github.com/PyCQA/bandit
-https://github.com/pyupio/safety
-https://github.com/secgroundzero/warberry
-https://github.com/rocky/python-uncompyle6
-https://github.com/jvinet/knock
-https://github.com/Snawoot/pyknock
-https://github.com/mthbernardes/sshLooter
-https://github.com/jesparza/peepdf
-https://github.com/huntergregal/mimipenguin
-https://github.com/SecureAuthCorp/Agafi
-https://github.com/NullHypothesis/exitmap
-https://github.com/Ice3man543/SubOver
-https://github.com/moxie0/sslsniff
-https://github.com/maliceio/malice
-https://github.com/zricethezav/gitleaks
-https://github.com/jtpereyda/boofuzz
-https://www.secfu.net/tools-scripts/
-https://github.com/mschwager/gitem
-https://github.com/securego/gosec
-https://github.com/square/certigo
-https://github.com/johnnykv/heralding
-https://github.com/HASecuritySolutions/VulnWhisperer
-https://github.com/stampery/mongoaudit
-https://github.com/nowsecure/r2frida
-https://github.com/lyft/confidant
-https://github.com/upx/upx
-https://github.com/google/ggrc-core
-https://github.com/twelvesec/gasmask
-https://github.com/AlisamTechnology/ATSCAN
-https://github.com/NullArray/AutoSploit
-https://github.com/Netflix/lemur
-https://github.com/Cyb3rWard0g/HELK
-https://github.com/aol/moloch
-https://github.com/OWASP/O-Saft
-https://github.com/schubergphilis/Seccubus
-https://github.com/pallets/itsdangerous
-https://github.com/fail2ban/fail2ban
-https://github.com/VirusTotal/yara
-https://github.com/Neo23x0/Loki
-https://github.com/yrutschle/sslh
-https://github.com/lief-project/LIEF
+https://sourceforge.net/projects/r-u-dead-yet/ <br>
+https://github.com/jseidl/GoldenEye <br>
+https://sourceforge.net/projects/highorbitioncannon/ <br>
+https://github.com/gkbrk/slowloris <br>
+https://sourceforge.net/projects/loic/ <br>
+https://github.com/GouveaHeitor/nipe <br>
+https://github.com/1tayH/noisy <br>
+https://github.com/Hack-with-Github/Awesome-Hacking <br>
+https://github.com/thehackingsage/hacktronian <br>
+https://github.com/trustedsec/ptf <br>
+https://github.com/trustedsec/social-engineer-toolkit <br>
+https://github.com/hectorm/hblock <br>
+https://github.com/archerysec/archerysec <br>
+https://github.com/malscan/malscan <br>
+https://github.com/rubysec/bundler-audit <br>
+https://github.com/galkan/crowbar <br>
+https://github.com/lgandx/Responder/ <br>
+https://github.com/andrewmichaelsmith/bluepot/ <br>
+https://github.com/leapsecurity/InSpy <br>
+https://github.com/FortyNorthSecurity/EyeWitness <br>
+https://github.com/CrowdStrike/Tortilla <br>
+https://github.com/TheRook/subbrute <br>
+https://github.com/blark/aiodnsbrute <br>
+https://github.com/mschwager/fierce <br>
+https://github.com/joswr1ght/btfind <br>
+https://github.com/scipag/btle-sniffer <br>
+https://github.com/virtualabs/btlejack <br>
+https://github.com/droe/sslsplit <br>
+https://github.com/ggerganov/kbd-audio <br>
+https://www.kitploit.com/2018/09/byob-build-your-own-botnet.html <br>
+https://github.com/anthemtotheego/SharpSploitConsole <br>
+https://github.com/errbufferoverfl/usb-canary <br>
+https://github.com/flipkart-incubator/RTA <br>
+https://github.com/giovanifss/Gitmails <br>
+https://github.com/USBGuard/usbguard <br>
+https://github.com/ismailtasdelen/Anti-DDOS <br>
+https://github.com/skahwah/wordsmith <br>
+https://github.com/s0lst1c3/eaphammer <br>
+https://github.com/mozilla/mig <br>
+https://github.com/YosaiProject/yosai <br>
+https://github.com/PyCQA/bandit <br>
+https://github.com/pyupio/safety <br>
+https://github.com/secgroundzero/warberry <br>
+https://github.com/rocky/python-uncompyle6 <br>
+https://github.com/jvinet/knock <br>
+https://github.com/Snawoot/pyknock <br>
+https://github.com/mthbernardes/sshLooter <br>
+https://github.com/jesparza/peepdf <br>
+https://github.com/huntergregal/mimipenguin <br>
+https://github.com/SecureAuthCorp/Agafi <br>
+https://github.com/NullHypothesis/exitmap <br>
+https://github.com/Ice3man543/SubOver <br>
+https://github.com/moxie0/sslsniff <br>
+https://github.com/maliceio/malice <br>
+https://github.com/zricethezav/gitleaks <br>
+https://github.com/jtpereyda/boofuzz <br>
+https://www.secfu.net/tools-scripts/ <br>
+https://github.com/mschwager/gitem <br>
+https://github.com/securego/gosec <br>
+https://github.com/square/certigo <br>
+https://github.com/johnnykv/heralding <br>
+https://github.com/HASecuritySolutions/VulnWhisperer <br>
+https://github.com/stampery/mongoaudit <br>
+https://github.com/nowsecure/r2frida <br>
+https://github.com/lyft/confidant <br>
+https://github.com/upx/upx <br>
+https://github.com/google/ggrc-core <br>
+https://github.com/twelvesec/gasmask <br>
+https://github.com/AlisamTechnology/ATSCAN <br>
+https://github.com/NullArray/AutoSploit <br>
+https://github.com/Netflix/lemur <br>
+https://github.com/Cyb3rWard0g/HELK <br>
+https://github.com/aol/moloch <br>
+https://github.com/OWASP/O-Saft <br>
+https://github.com/schubergphilis/Seccubus <br>
+https://github.com/pallets/itsdangerous <br>
+https://github.com/fail2ban/fail2ban <br>
+https://github.com/VirusTotal/yara <br>
+https://github.com/Neo23x0/Loki <br>
+https://github.com/yrutschle/sslh <br>
+https://github.com/lief-project/LIEF <br> 
