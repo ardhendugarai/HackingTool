@@ -3,12 +3,14 @@
 ```
 My Favourite Tools
 ```
+#### <code>apt-get install unzip</code>
 
-https://sourceforge.net/projects/ddosim/
-https://github.com/MustLive/DAVOSET
-http://www.bestetools.com/system/ddos-tools/
-https://github.com/GeoffreyVDB/HULK
-https://github.com/darkerego/pyloris
+* [ddosim] **ddosim** - *ddosim* ( https://sourceforge.net/projects/ddosim/)
+*https://github.com/MustLive/DAVOSET
+*http://www.bestetools.com/system/ddos-tools/
+*https://github.com/GeoffreyVDB/HULK
+*https://github.com/darkerego/pyloris
+
 https://github.com/dotfighter/torshammer
 https://www.incapsula.com/ddos/booters-stressers-ddosers.html
 https://www.incapsula.com/ddos/attack-glossary/rudy-r-u-dead-yet.html
