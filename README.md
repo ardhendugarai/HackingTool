@@ -32,8 +32,8 @@ sudo apt-get install wireshark
 <br>
 * https://github.com/GeoffreyVDB/HULK
 <br>
-*https://github.com/darkerego/pyloris
-*  https://github.com/dotfighter/torshammer <br>
+* https://github.com/darkerego/pyloris <br>
+* https://github.com/dotfighter/torshammer <br>
 *  https://www.incapsula.com/ddos/booters-stressers-ddosers.html <br>
 *  https://www.incapsula.com/ddos/attack-glossary/rudy-r-u-dead-yet.html
 *  https://sourceforge.net/projects/r-u-dead-yet/ <br>
