@@ -17,6 +17,14 @@ Found on the Internet
 ```
 sudo apt-get install namp
 sudo apt-get install wireshark
+sudo apt-get install chkrootkit
+sudo apt-get install pompem
+sudo apt-get install cupp
+sudo apt-get install cewl
+sudo apt-get install hping3
+sudo apt-get install thc-ipv6 
+sudo apt-get install websploit
+sudo apt-get install ipscan 
 ```
 #### <code>apt-get install unzip</code>
 ****
